@@ -1,4 +1,5 @@
 /.vscode
-/.ISMRM_AutoLevelSet
+/ISMRM_AutoLevelSet
+/Fake_ISMRM_AutoLevelSet
 /main.ipynb
 /temp.py
