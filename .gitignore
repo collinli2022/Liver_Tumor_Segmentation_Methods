@@ -1,4 +1,7 @@
 /.vscode
+/.csv
+/JL_cases
+/manually_labeled_cases
 /ISMRM_AutoLevelSet
 /Fake_ISMRM_AutoLevelSet
 /Original_ISMRM
