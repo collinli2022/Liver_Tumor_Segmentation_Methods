@@ -23,8 +23,7 @@ def openImage(fp):
     nii = nib.load(fp)
     sx, sy, sz = nii.header.get_zooms()
     
-    return nii.get_fdata(), sx*sy*sz/10
-
+    return nii.get_fdata(), sx*sy*sz/1000
 def organizeFiles(fp):
     """
     Organize nifty files into array
